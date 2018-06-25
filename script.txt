@@ -1,0 +1,3 @@
+<script type="text/javascript">
+            var strbzdm = '501018';
+        </script>
